@@ -1,4 +1,3 @@
-layout_spectrum: 0.33394023193977773
 typography_spectrum: 0.124045166419819
 color:
   brandStrength: 0.5095809274353087
@@ -11,8 +10,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.33394023193977773
 name: GU Test
 navigation:
   - name: Item 1
     id: 4c760425-a723-4c67-9ec1-7d28bb9a450e
     type: content
+title: GU
