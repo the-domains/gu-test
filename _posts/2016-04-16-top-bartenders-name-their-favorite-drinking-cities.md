@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-24T19:48:43.859Z'
+datePublished: '2016-08-24T19:49:41.395Z'
 sourcePath: _posts/2016-04-16-top-bartenders-name-their-favorite-drinking-cities.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/drink/nation/bartenders-best-drinking-cities/food-and-drink
-hasPage: false
+hasPage: true
 keywords:
   - drinking
   - bartender
@@ -21,7 +19,7 @@ author:
   - name: Anastacia Uriegas
     url: 'https://www.thrillist.com/authors/anastacia-uriegas'
     avatar: {}
-dateModified: '2016-08-24T19:48:40.985Z'
+dateModified: '2016-08-24T19:49:39.971Z'
 title: Top Bartenders Name Their Favorite Drinking Cities
 app_links:
   - namespace: twitter
@@ -40,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: top-bartenders-name-their-favorite-drinking-cities/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
