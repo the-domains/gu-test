@@ -1,4 +1,3 @@
-layout_spectrum: 0.5233452895190567
 typography_spectrum: 0.7427756877150387
 color:
   brandStrength: 0.23901308653876185
@@ -11,9 +10,11 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.5233452895190567
 name: GU Test
 navigation:
   - name: Item 1
     id: 4c760425-a723-4c67-9ec1-7d28bb9a450e
     type: content
 title: GU Test
+description: Back in the Future
