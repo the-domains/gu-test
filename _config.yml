@@ -1,0 +1,14 @@
+layout_spectrum: 0.33394023193977773
+typography_spectrum: 0.124045166419819
+color:
+  brandStrength: 0.5095809274353087
+  lightness: 0.5318436969537288
+  saturation: 0.032100108452141285
+  rhythmicContrast: 0.7152038083877414
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: GU Test
