@@ -1,16 +1,16 @@
-typography_spectrum: 0.7427756877150387
+layout_spectrum: 0.25336180650629103
+typography_spectrum: 0.19788431166671216
 color:
-  brandStrength: 0.23901308653876185
-  lightness: 0.3457360223401338
-  saturation: 0.6433293269947171
-  rhythmicContrast: 0.25939284125342965
+  brandStrength: 0.7735668004024774
+  lightness: 0.33348652510903776
+  saturation: 0.8722741743549705
+  rhythmicContrast: 0.09598985081538558
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.5233452895190567
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: GU Test
 navigation:
   - name: Item 1
